@@ -25,7 +25,7 @@
 - Real-Time Chat Application
 
 📫 Reach Me:
-**your-email@example.com**
+**dileepgowda2708@gmail.com**
 
 ---
 
