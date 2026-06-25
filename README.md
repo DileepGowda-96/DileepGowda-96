@@ -176,12 +176,6 @@ Features:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DileepGowda-96&theme=algolia&no-frame=true&row=1"/>
-</p>
-
 ---
 
 # 💡 Coding Profiles
